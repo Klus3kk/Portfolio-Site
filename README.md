@@ -8,4 +8,6 @@ A website showcasing my skills, experience, and projects.
 * React,
 * Gatsby,
 * Next.js, CSS animations.
+
+  
 **Status: In progress.**
